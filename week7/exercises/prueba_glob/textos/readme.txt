@@ -1,0 +1,1 @@
+Contenido de readme.txt
