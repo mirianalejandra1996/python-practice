@@ -1,0 +1,3 @@
+Python es un lenguaje de programación versátil.
+Python se usa en ciencia de datos, web, automatización y más.
+Aprender Python es una excelente inversión de tiempo.

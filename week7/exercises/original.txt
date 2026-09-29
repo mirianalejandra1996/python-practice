@@ -1,0 +1,4 @@
+hola mundo
+python es genial
+archivos de texto
+semana siete del bootcamp

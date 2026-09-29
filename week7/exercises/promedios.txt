@@ -1,0 +1,6 @@
+Nombre,Promedio
+Ana,91.7
+Carlos,81.0
+María,94.0
+Pedro,69.0
+Lucía,88.0
