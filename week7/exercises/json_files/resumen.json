@@ -1,0 +1,21 @@
+{
+  "grupo": "Python-2025",
+  "promedios": [
+    {
+      "nombre": "Ana",
+      "promedio": 91.7
+    },
+    {
+      "nombre": "Carlos",
+      "promedio": 81.7
+    },
+    {
+      "nombre": "María",
+      "promedio": 91.7
+    },
+    {
+      "nombre": "Luis",
+      "promedio": 77.7
+    }
+  ]
+}

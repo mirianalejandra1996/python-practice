@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Estudiar JSON",
+    "completada": false
+  },
+  {
+    "titulo": "Hacer ejercicios",
+    "completada": false
+  },
+  {
+    "titulo": "Repasar CSV",
+    "completada": false
+  }
+]

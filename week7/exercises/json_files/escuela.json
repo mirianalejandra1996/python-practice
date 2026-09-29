@@ -1,0 +1,37 @@
+{
+  "grupo": "Python-2025",
+  "estudiantes": [
+    {
+      "nombre": "Ana",
+      "calificaciones": {
+        "python": 95,
+        "sql": 88,
+        "git": 92
+      }
+    },
+    {
+      "nombre": "Carlos",
+      "calificaciones": {
+        "python": 78,
+        "sql": 82,
+        "git": 85
+      }
+    },
+    {
+      "nombre": "María",
+      "calificaciones": {
+        "python": 91,
+        "sql": 95,
+        "git": 89
+      }
+    },
+    {
+      "nombre": "Luis",
+      "calificaciones": {
+        "python": 85,
+        "sql": 70,
+        "git": 78
+      }
+    }
+  ]
+}

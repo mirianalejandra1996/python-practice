@@ -1,0 +1,11 @@
+{
+  "idioma": "es",
+  "tema": "claro",
+  "fuente_tamano": 16,
+  "notificaciones": true,
+  "carpeta_descargas": "./descargas",
+  "historial": {
+    "guardar": true,
+    "max_entradas": 200
+  }
+}
