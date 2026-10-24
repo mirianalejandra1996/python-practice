@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fecha": "2026-10-24",
+    "monto": 85.5,
+    "categoria": "Comida",
+    "descripcion": "Café y pan"
+  },
+  {
+    "id": 2,
+    "fecha": "2026-10-24",
+    "monto": 450.0,
+    "categoria": "Transporte",
+    "descripcion": "Gasolina"
+  },
+  {
+    "id": 3,
+    "fecha": "2026-10-24",
+    "monto": 1200.0,
+    "categoria": "Servicios",
+    "descripcion": "Luz del mes"
+  },
+  {
+    "id": 4,
+    "fecha": "2026-10-24",
+    "monto": 180.0,
+    "categoria": "Comida",
+    "descripcion": "Súper"
+  },
+  {
+    "id": 5,
+    "fecha": "2026-10-24",
+    "monto": 350.0,
+    "categoria": "Entretenimiento",
+    "descripcion": "Cine con amigos"
+  }
+]
