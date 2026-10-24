@@ -3,3 +3,4 @@
 2026-10-24 17:42 | $1200.00 | Servicios | Luz del mes
 2026-10-24 17:42 | $180.00 | Comida | Súper
 2026-10-24 17:42 | $350.00 | Entretenimiento | Cine con amigos
+2026-10-24 18:06 | $300.00 | Pruba | Un jaboncito

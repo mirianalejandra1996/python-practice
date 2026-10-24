@@ -1,0 +1,17 @@
+{
+  "ventas.csv": {
+    "filas": 2,
+    "columnas": [
+      "producto",
+      "cantidad"
+    ]
+  },
+  "clientes.csv": {
+    "filas": 3,
+    "columnas": [
+      "nombre",
+      "ciudad",
+      "edad"
+    ]
+  }
+}

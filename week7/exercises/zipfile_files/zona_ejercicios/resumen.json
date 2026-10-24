@@ -1,0 +1,10 @@
+{
+  "zip": "datos.zip",
+  "archivos_csv": 3,
+  "total_filas": 9,
+  "filas_por_archivo": {
+    "clientes.csv": 2,
+    "inventario/almacen.csv": 4,
+    "ventas.csv": 3
+  }
+}

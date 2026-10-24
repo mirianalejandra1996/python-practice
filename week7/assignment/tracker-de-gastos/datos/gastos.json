@@ -33,5 +33,12 @@
     "monto": 350.0,
     "categoria": "Entretenimiento",
     "descripcion": "Cine con amigos"
+  },
+  {
+    "id": 6,
+    "fecha": "2026-10-24",
+    "monto": 300.0,
+    "categoria": "Pruba",
+    "descripcion": "Un jaboncito"
   }
 ]
